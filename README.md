@@ -1,4 +1,5 @@
-<p align="center">https://imgur.com/a/U2RMvIC</p>
+<p align="center"><img src="https://imgur.com/a/U2RMvIC"
+</p>
 
 <h1></h1>
 <br />
