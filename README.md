@@ -1,7 +1,6 @@
-<p align="center"><img src="https://imgur.com/a/U2RMvIC"
-</p>
 
-<h1></h1>
+
+<h1>Implementing VPN</h1>
 <br />
 
 
